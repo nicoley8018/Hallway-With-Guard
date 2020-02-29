@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 7cfa4e83387bedc4a96e1f7c8b5b8c09
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerCamera: {instanceID: 0}
+  - playerHand: {instanceID: 0}
+  - Waffle: {fileID: -927199367670048503, guid: 2678d16ce82b39247975b6fe7b6bfc0a,
+      type: 3}
+  - Chicken: {fileID: -927199367670048503, guid: f1df2fd527d3a62478b1aee3a8851298,
+      type: 3}
+  - interactText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

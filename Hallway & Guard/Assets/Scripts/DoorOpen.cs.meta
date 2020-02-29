@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c1a12a5a0d2d3a343abc5c461f610fb6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - interactText: {instanceID: 0}
+  - door: {fileID: 3957548093045534717, guid: de18a894f9da48e4197383fad75f54f6, type: 3}
+  - dog: {fileID: 3396355498559825147, guid: f03582b3c8be22f42873e8f6f5551959, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
